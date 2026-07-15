@@ -8,7 +8,9 @@ I'm working through a portfolio of backend projects, each one adding a new piece
 
 
 personal-blog-api: REST API with Django + DRF. JWT auth, nested comments, filtering, pagination, object-level permissions. PostgreSQL in production.
+
 URL shortener: https://github.com/K-Arghyadeep/url-shortener-api, a URL Shortener REST API built with Django REST Framework; exploring JWT authentication, click analytics, rate limiting, and secure short code generation.
+
 Up next: file storage with MinIO, background jobs with Celery + RabbitMQ, caching with Redis, and a RAG document Q&A service).
 
 
@@ -26,4 +28,5 @@ Reach me
 
 
 LinkedIn: https://www.linkedin.com/in/arghyadeep-kundu-a6b546237
+
 Email: warghyadeep@gmail.com
